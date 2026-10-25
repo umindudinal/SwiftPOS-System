@@ -101,7 +101,7 @@ public class HomePanel extends javax.swing.JPanel {
         jPanel3.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
         jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 30)); // NOI18N
-        jLabel2.setText("Welcome, Admin!");
+        jLabel2.setText("Welcome, SwiftPOS!");
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 2, 18)); // NOI18N
         jLabel3.setText("Manage your sales and inventory easily.");
